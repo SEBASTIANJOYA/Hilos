@@ -1,0 +1,15 @@
+{
+    "source":"Paris¡",
+     "targets":[
+        {
+            "target":"Chile",
+            "distance":8000,
+            "value":1800000
+        },
+        {
+            "target":"Lima",
+            "distance":100008,
+            "value":10000000
+        }
+     ]
+}

@@ -1,0 +1,20 @@
+{
+    "source":"Chile¡",
+     "targets":[
+        {
+            "target":"Bogota",
+            "distance":9248,
+            "value":120000
+        },
+        {
+            "target":"Madrid",
+            "distance":160007,
+            "value":2250000
+        },
+        {
+            "target":"Lima",
+            "distance":2462,
+            "value":700000
+        }
+     ]
+}
